@@ -14,8 +14,6 @@ Screenshot |
 ------------ |
 <img src="https://github.com/niyongsheng/BreakoutGame/blob/master/blockGaming.gif"> |
 
-![image](https://github.com/niyongsheng/BreakoutGame/blob/master/blockGaming.gif)
-
 ## Remind
 - [x] ARC
 - [x] iOS >= 9.0
