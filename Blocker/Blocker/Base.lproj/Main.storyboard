@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="blue.png" id="VLa-4O-J4O">
+                                <rect key="frame" x="0.0" y="20" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="blue.png" id="kl7-tp-F0y">
+                                <rect key="frame" x="125" y="20" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="blue.png" id="Jbx-se-3ap">
+                                <rect key="frame" x="250" y="20" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="blue.png" id="jnE-g5-hMR">
+                                <rect key="frame" x="0.0" y="139" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="blue.png" id="QpR-Zi-8gH">
+                                <rect key="frame" x="125" y="139" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="blue.png" id="PIm-8c-tgB">
+                                <rect key="frame" x="250" y="139" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="green.png" id="Pat-wT-BbV">
+                                <rect key="frame" x="0.0" y="49" width="62.5" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="green.png" id="Jzt-3a-37l">
+                                <rect key="frame" x="63" y="49" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="green.png" id="iCy-r9-zkh">
+                                <rect key="frame" x="188" y="49" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="green.png" id="ysl-DX-Ii7">
+                                <rect key="frame" x="310" y="49" width="65" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="red.png" id="b2g-ED-kdt">
+                                <rect key="frame" x="0.0" y="79" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="red.png" id="EGE-Bv-yXq">
+                                <rect key="frame" x="125" y="79" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="red.png" id="q5m-2b-Ina">
+                                <rect key="frame" x="250" y="79" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="yellow.png" id="56R-wy-q7R">
+                                <rect key="frame" x="0.0" y="109" width="62.5" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="yellow.png" id="Suk-wk-HNo">
+                                <rect key="frame" x="63" y="109" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="yellow.png" id="wtA-av-dVC">
+                                <rect key="frame" x="188" y="109" width="125" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="yellow.png" id="Gvq-mX-XcB">
+                                <rect key="frame" x="310" y="109" width="65" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="paddle.png" id="bwW-TC-U15">
+                                <rect key="frame" x="112" y="632" width="150" height="15"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <rect key="contentStretch" x="0.14999999999999999" y="0.0" width="0.75" height="1"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="oaW-bN-sRF" appends="YES" id="E01-FV-IEh"/>
+                                </connections>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ball.png" id="SAw-Jo-vdh">
+                                <rect key="frame" x="177" y="612" width="20" height="20"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                            </imageView>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Game Over!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Nsf-5P-znP">
+                                <rect key="frame" x="55" y="286" width="265" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                <color key="textColor" red="1" green="0.32065534083526315" blue="0.117031964210212" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.75" alpha="1" colorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <connections>
+                            <outletCollection property="gestureRecognizers" destination="QZP-ln-nyt" appends="YES" id="mCV-kb-mS7"/>
+                        </connections>
+                    </view>
+                    <connections>
+                        <outlet property="ball" destination="SAw-Jo-vdh" id="l4N-Qu-1LI"/>
+                        <outlet property="msgLabel" destination="Nsf-5P-znP" id="UGf-Ej-xWm"/>
+                        <outlet property="paddle" destination="bwW-TC-U15" id="nxm-Qg-0EQ"/>
+                        <outlet property="tapGR" destination="QZP-ln-nyt" id="xEt-Kv-W0I"/>
+                        <outletCollection property="blocks" destination="jnE-g5-hMR" id="KA4-hl-Mhc"/>
+                        <outletCollection property="blocks" destination="QpR-Zi-8gH" id="ojB-mP-nXg"/>
+                        <outletCollection property="blocks" destination="PIm-8c-tgB" id="74Q-Cx-YAo"/>
+                        <outletCollection property="blocks" destination="56R-wy-q7R" id="hLI-JU-o40"/>
+                        <outletCollection property="blocks" destination="Suk-wk-HNo" id="MhK-l6-kbf"/>
+                        <outletCollection property="blocks" destination="wtA-av-dVC" id="btf-u0-hrb"/>
+                        <outletCollection property="blocks" destination="Gvq-mX-XcB" id="Ps4-4n-vBC"/>
+                        <outletCollection property="blocks" destination="b2g-ED-kdt" id="fWa-SN-stR"/>
+                        <outletCollection property="blocks" destination="EGE-Bv-yXq" id="3x7-Dp-5o5"/>
+                        <outletCollection property="blocks" destination="q5m-2b-Ina" id="OhX-cm-EEi"/>
+                        <outletCollection property="blocks" destination="Pat-wT-BbV" id="ACN-pc-3Qx"/>
+                        <outletCollection property="blocks" destination="Jzt-3a-37l" id="NZ5-XE-eH7"/>
+                        <outletCollection property="blocks" destination="iCy-r9-zkh" id="KfC-XL-MtA"/>
+                        <outletCollection property="blocks" destination="ysl-DX-Ii7" id="9ml-ek-lnq"/>
+                        <outletCollection property="blocks" destination="VLa-4O-J4O" id="oCH-yN-yDk"/>
+                        <outletCollection property="blocks" destination="kl7-tp-F0y" id="WZa-59-Hgn"/>
+                        <outletCollection property="blocks" destination="Jbx-se-3ap" id="6M2-bC-gxt"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <panGestureRecognizer minimumNumberOfTouches="1" id="oaW-bN-sRF">
+                    <connections>
+                        <action selector="onPaddlePan:" destination="BYZ-38-t0r" id="4WT-Qh-qji"/>
+                    </connections>
+                </panGestureRecognizer>
+                <tapGestureRecognizer enabled="NO" id="QZP-ln-nyt">
+                    <connections>
+                        <action selector="onTapScreen:" destination="BYZ-38-t0r" id="dPn-DP-NVb"/>
+                    </connections>
+                </tapGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="20.5" y="41.5"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="ball.png" width="20" height="20"/>
+        <image name="blue.png" width="128" height="40"/>
+        <image name="green.png" width="128" height="40"/>
+        <image name="paddle.png" width="64" height="20"/>
+        <image name="red.png" width="128" height="40"/>
+        <image name="yellow.png" width="128" height="40"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>
