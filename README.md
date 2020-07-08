@@ -12,7 +12,7 @@
 
 Screenshot |
 ------------ |
-<gif src="https://github.com/niyongsheng/BreakoutGame/blob/master/blockGaming.gif"> |
+<img src="https://github.com/niyongsheng/BreakoutGame/blob/master/blockGaming.gif"> |
 
 ![image](https://github.com/niyongsheng/BreakoutGame/blob/master/blockGaming.gif)
 
